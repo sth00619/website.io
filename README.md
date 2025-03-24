@@ -44,18 +44,6 @@ A clean, responsive personal website with a modern design.
 * Button styling with hover effects
 * `.contact-info`: Additional contact information
 
-## Getting Started
-
-1. Clone this repository
-2. Open the project in your favorite code editor
-3. Customize the HTML content to match your information
-4. Modify the CSS if you want to change the styling
-5. Deploy to your preferred hosting service
-
-## Customization
-
-Feel free to customize the colors, fonts, and layout to match your personal brand. The CSS is organized by page to make it easy to find and modify specific sections.
-
-## License
-
-MIT License - feel free to use and modify for your personal website!
+## Difficulites
+* Using rem based on html at the top due to difficulty in unifying letters
+* Difficulty in organizing common pages and individual pages, so the header and footer perform common tasks and try to organize the main part for individual pages
